@@ -21,3 +21,4 @@ To see the project:
 - Routing
 
 ### A user can interact with the Dev Book Store
+![Screenshot](https://github.com/AmitKKhanchandani/Angular2DevBookStore/raw/master/screenshot.png)
